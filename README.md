@@ -2,7 +2,7 @@
 
 <pre>
 @font-face {
-    font-family: 'gmark';
+    font-family: 'gmarket';
     font-weight: 300;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/websfont/gmarket/gmarket-Light.eot');
@@ -13,7 +13,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'gmark';
+    font-family: 'gmarket';
     font-weight: 500;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/websfont/gmarket/gmarket-Medium.eot');
@@ -24,7 +24,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'gmark';
+    font-family: 'gmarket';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/websfont/gmarket/gmarket-Bold.eot');
@@ -34,4 +34,19 @@
          url('https://cdn.jsdelivr.net/gh/websfont/gmarket/gmarket-Bold.ttf') format("truetype");
     font-display: swap;
 } 
+.gmarket {
+    font-family: 'gmarket';
+}
+.gmarket300 {
+    font-family: 'gmarket';
+    font-weight: 300;
+}
+.gmarket500 {
+    font-family: 'gmarket';
+    font-weight: 500;
+}
+.gmarket700 {
+    font-family: 'gmarket';
+    font-weight: 700;
+}
 </pre>
